@@ -1,0 +1,6 @@
+module Pods_ARVideo [system] {
+  umbrella header "Pods-ARVideo-umbrella.h"
+
+  export *
+  module * { export * }
+}
